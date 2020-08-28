@@ -1,4 +1,5 @@
-# todomvc
+# vue-todomvc   
+[todomvc](http://todomvc.com/) clone using [vuejs](https://vuejs.org/) and [bootstrap](https://getbootstrap.com/) in an hour)
 
 ## Project setup
 ```
@@ -19,6 +20,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
